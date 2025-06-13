@@ -16,20 +16,17 @@
 - 🧠 Constantly learning and experimenting with new technologies  
 - 🔧 I build things to **solve real problems** (and sometimes just for fun)
 
----
 
 ## 🚀 What I'm Working On
 
 - A **Neovim-based workflow** for faster development and better focus  
 - Exploring **Rust** for high-performance backend logic
 
----
 
 ## 🧠 Fun Fact
 
 > I may use `:wq` more than I use my car keys.
 
----
 
 ## 📫 Let's Connect
 

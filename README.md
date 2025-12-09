@@ -53,14 +53,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-- 🦀 Learning **Rust** for systems programming
-- 🚀 Building high-performance backend services
-- 🔧 Perfecting my Neovim workflow
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
